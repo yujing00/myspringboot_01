@@ -1,0 +1,14 @@
+debug: true
+logging:
+  level:
+    root: info
+  file: d:/myspringboot.log
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: dbc:mysql://localhost:3306/oa
+    data-username: root
+    data-password: 333666
+mall:
+
+  
